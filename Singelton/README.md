@@ -6,7 +6,7 @@ the lifetime of an application.
 - Example:
   - Clip Board
   - Windows Registry (System Parameters)
-  - Example usage in java core: `java.lang.Runtime#getRuntime()`
+  - Example usage in java core: `java.lang.Runtime.getRuntime()`
   
   ### Implementation: 
   
